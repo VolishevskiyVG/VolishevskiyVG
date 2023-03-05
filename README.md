@@ -10,24 +10,24 @@
  ### Инструменты:
 
 <p  align="center">
-  <code><img width="3.5%" title="Atlassian Jira" src="./images/icons/jira-logo.svg"></code>
-  <code><img width="3.5%" title="Github" src="./images/icons/GitHub.svg"></code>
-  <code><img width="3.5%" title="Java" src="./images/icons/java-logo.svg"></code>
-  <code><img width="3.5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
-  <code><img width="3.5%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
-  <code><img width="3.5%" title="Gradle" src="./images/icons/gradle-logo.svg"></code>
-  <code><img width="3.5%" title="Maven" src="./images/icons/maven.png"></code>
-  <code><img width="3.5%" title="Selenium" src="./images/icons/selenium.png"></code>
-  <code><img width="3.5%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
-  <code><img width="3.5%" title="REST-Assured" src="./images/icons/rest-assured-logo.svg"></code>
-  <code><img width="3.5%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
-  <code><img width="3.5%" title="Allure TestOps" src="./images/icons/allure-ee-logo.svg"></code>
-  <code><img width="3.5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
-  <code><img width="3.5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
-  <code><img width="3.5%" title="Docker" src="./images/icons/docker-original.svg"></code>
-  <code><img width="3.5%" title="AndroidStudio" src="./images/icons/androidstudio.svg"></code>
-  <code><img width="3.5%" title="Appium" src="./images/icons/appium.svg"></code>
-  <code><img width="3.5%" title="Appium Inspector" src="./images/icons/appium-inspector.png"></code>
-  <code><img width="3.5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
+  <code><img width="3.5%" title="Atlassian Jira" src=".idea/readme_design/logo/Jira-Emblem.png"></code>
+  <code><img width="3.5%" title="Github" src=".idea/readme_design/logo/GitHub.svg"></code>
+  <code><img width="3.5%" title="Java" src=".idea/readme_design/logo/Java.svg"></code>
+  <code><img width="3.5%" title="IntelliJ IDEA" src=".idea/readme_design/logo/Intelij_IDEA.svg"></code>
+  <code><img width="3.5%" title="JUnit5" src=".idea/readme_design/logo/JUnit5.svg"></code>
+  <code><img width="3.5%" title="Gradle" src=".idea/readme_design/logo/Gradle.svg"></code>
+  <code><img width="3.5%" title="Maven" src=".idea/readme_design/logo/maven.png"></code>
+  <code><img width="3.5%" title="Selenium" src=".idea/readme_design/logo/selenium.png"></code>
+  <code><img width="3.5%" title="Selenide" src=".idea/readme_design/logo/Selenide.svg"></code>
+  <code><img width="3.5%" title="REST-Assured" src=".idea/readme_design/logo/Rest_Assured.png"></code>
+  <code><img width="3.5%" title="Allure Report" src=".idea/readme_design/logo/Allure_Report.svg"></code>
+  <code><img width="3.5%" title="Allure TestOps" src=".idea/readme_design/logo/Allure_Test_Ops.svg"></code>
+  <code><img width="3.5%" title="Selenoid" src=".idea/readme_design/logo/Selenoid.svg"></code>
+  <code><img width="3.5%" title="Jenkins" src=".idea/readme_design/logo/Jenkins.svg"></code>
+  <code><img width="3.5%" title="Docker" src=".idea/readme_design/logo/Docker.png"></code>
+  <code><img width="3.5%" title="AndroidStudio" src=".idea/readme_design/logo/androidstudio.svg"></code>
+  <code><img width="3.5%" title="Appium" src=".idea/readme_design/logo/appium.svg"></code>
+  <code><img width="3.5%" title="Appium Inspector" src=".idea/readme_design/logo/appium_inspector.png"></code>
+  <code><img width="3.5%" title="Browserstack" src=".idea/readme_design/logo/browserstack.svg"></code>
 
   
